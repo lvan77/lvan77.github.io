@@ -1,8 +1,8 @@
 ### 目录结构
 ![Linux目录结构](./imageSource/linuxDirectorytree.png)
-<img src="./imageSource/linuxDirectorytree.png"/><br/>
-图片2 
-<img src="https://github.com/lvan77/lvan77.github.io/blob/main/imageSource/linuxDirectorytree.png"/><br/>
+<!-- <img src="./imageSource/linuxDirectorytree.png"/><br/> -->
+<!-- 图片2  -->
+<!-- <img src="https://github.com/lvan77/lvan77.github.io/blob/main/imageSource/linuxDirectorytree.png"/><br/> -->
 
 
 
