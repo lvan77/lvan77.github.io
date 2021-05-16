@@ -60,18 +60,26 @@ _这也是斜体_
 注意要是再问吧中有"*"或者"_" 前面加 \ 转意
 ```
 
-####删除线
+#### 删除线
 ```
 ~~删除线~~
 ```
 ~~删除线效果~~
-####超链接
-行内式:```[link text](url 'title') ```  
-[普通链接百度](http://www.baidu.com '百度')  ```[普通链接百度](http://www.baidu.com '百度') " "和'' 都可以，不用也可以 ```  
-自动链接```<http://www.baidu.com>```<http://www.baidu.com>  
-[sublimeText3配置.md](./sublimeText3配置.md)    
-**图片和超链接的格式一样不过前面多一个!** 即```![link text](url 'title') ```
+
+
+#### 超链接
+格式为: ```语法: [link text](url 'title') ```  
+1. [普通链接百度](http://www.baidu.com '百度')  
+```语法: [普通链接百度](http://www.baidu.com '百度') " "和'' 都可以，不用也可以 ```  
+2. 自动链接 <http://www.baidu.com> 
+```语法: <http://www.baidu.com>```  
+3. [本地文件链接 sublimeText3配置.md](./sublimeText3配置.md) 
+   ```语法: [本地文件链接 sublimeText3配置.md](./sublimeText3配置.md) ```
+**图片和超链接的格式一样不过前面多一个!** 
+即```语法: ![link text](url 'title') ```
+
 ####分割线
+
 三个或更多的```*```,```-,```,```_``` 中间也可以有空格
 * * *
 ---
