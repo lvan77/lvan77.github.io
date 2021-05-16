@@ -1,5 +1,10 @@
 ### 目录结构
-![Linux目录结构](https://github.com/lvan77/lvan77.github.io/blob/main/imageSource/linuxDirectorytree.jpeg)
+![Linux目录结构](./imageSource/linuxDirectorytree.png)
+<img src="./imageSource/linuxDirectorytree.png"/><br/>
+图片2 
+<img src="https://github.com/lvan77/lvan77.github.io/blob/main/imageSource/linuxDirectorytree.png"/><br/>
+
+
 
 ### 文件权限  
 chmod 755, 777, 644 <br/> 
