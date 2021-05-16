@@ -1,3 +1,6 @@
+### 目录结构
+![Linux目录结构](./imageSouce/linuxDirectorytree.jpeg)
+
 ### 文件权限  
 chmod 755, 777, 644 <br/> 
 三个数字位置分别代表: 所有者 同组用户  公共用户  <br/> 
