@@ -8,5 +8,5 @@
 
 
 ## 工具
-[mac 设置](./vue/vueNote.md)<br/>
-[markdown 学习](./vue/vueNote.md)<br/>
+[mac 设置](./macSetting.md)<br/>
+[markdown 学习](./markdown.md)<br/>
