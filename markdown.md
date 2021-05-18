@@ -32,9 +32,9 @@
 效果：   
 
 一级标题
-==========
+====
 二级标题
----------
+----
 # 一级标题  
 ## 二级标题  
 ### 三级标题  
@@ -88,7 +88,7 @@ _这也是斜体_
 
 三个或更多的```*```,```-,```,```_``` 中间也可以有空格
 * * *
----
+-----
 ___
 
 ####列表
@@ -134,7 +134,7 @@ name  | age
 小王   | 12
 小哥   | 14
 
-####Task List
+#### Task List
 ```
 - [ ] 任务1
 - [x] 任务2
@@ -153,8 +153,25 @@ name  | age
 什么用途？
 }
 
+## 常用插件 
+插件安装方法 <br/>
+1. 快捷键 ```ctrl + shift + P ``` 
+2. 找到或输入 ```Package Control: Install Package``` 后回车  
+3. 输入要安装的插件名字等待安装  
 
-
+####  package control 被墙解决方案 
+手动安装 package control 然后 更改配置 <br/>
+1. git 下载 packageControl<https://github.com/lvan77/package_control> zip 包
+2. 解压 重命名 *Package Control* 然后拷贝到 sublime packages目录下 Perferences->browsePackages 
+3. 更改 packageControl userSetting ![添加配置](./imageSource/sublime3PackageControlSetting)
+``` json
+ ## 根据上面操作追加下面配置到文件中保存
+    "channels":
+    [
+        "http://cst.stu.126.net/u/json/cms/channel_v3.json",
+    ]
+```
+4. 常用插件  MarkdownEditing, MarkdownPreview, MarkdownLivePreview, LiveReload
 
 
 
