@@ -163,7 +163,7 @@ name  | age
 手动安装 package control 然后 更改配置 <br/>
 1. git 下载 packageControl<https://github.com/lvan77/package_control> zip 包
 2. 解压 重命名 *Package Control* 然后拷贝到 sublime packages目录下 Perferences->browsePackages 
-3. 更改 packageControl userSetting ![添加配置](./imageSource/sublime3PackageControlSetting)
+3. 更改 packageControl userSetting ![添加配置](./imageSource/sublime3PackageControlSetting.png)
 ``` json
  ## 根据上面操作追加下面配置到文件中保存
     "channels":
