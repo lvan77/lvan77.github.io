@@ -17,6 +17,9 @@ chmod 755, 777, 644 <br/>
 ```
 ssh root@ipaddress -p port 
 #ipaddress和port可从供应商处获取，默认为22号端口
+1、ssh+用户名+@+ip
+例如：ssh root@39.96.58.107
+2、输入密码
 ```
 
 SSH连接的时候Host key verification failed. <br/> 
