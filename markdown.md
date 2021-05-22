@@ -171,7 +171,12 @@ name  | age
         "http://cst.stu.126.net/u/json/cms/channel_v3.json",
     ]
 ```
-4. 常用插件  MarkdownEditing, MarkdownPreview, MarkdownLivePreview, LiveReload
+4. 常用插件  MarkdownEditing, MarkdownPreview, MarkdownLivePreview, LiveReload<br/>
+MarkdownPreview 无法打开浏览器情况找到 Perferences ->PackageSetting -> MarkdownPreview ->Setting User 修改 <br/> 
+```
+## user 里面没有内容的情况 拷贝 defult 里面的内容到user下
+ "browser": "/Applications/Google Chrome.app",
+```
 
 
 
