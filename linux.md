@@ -50,3 +50,22 @@ gg	文档的第一行 <br/>
 ``` shell
 sudo vi /etc/hosts
 ```
+
+### 查看进程  
+
+```shell 
+#使用lsof找出pid
+lsof -i:22
+
+#找出非监听端口
+netstat -ntp | grep ":22" 
+#找出监听端口
+netstat -ntpl | grep ":22"
+
+ps -ef|grep $pid
+ps -ef|grep 项目名
+```
+
+
+
+
